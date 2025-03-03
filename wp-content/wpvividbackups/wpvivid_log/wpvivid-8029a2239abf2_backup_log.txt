@@ -69,3 +69,8 @@ Type: backup
 [2025-03-03 03:27:08][notice]Backing up backup_db completed.
 [2025-03-03 03:27:08][notice]Prepare to backup backup_themes files.
 [2025-03-03 03:27:09][notice]Compressing zip file:new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_themes.part001.zip index:1172
+[2025-03-03 03:28:06][notice]Compressing zip file:new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_themes.part001.zip success. index:1172 file size:18.47 MB
+[2025-03-03 03:28:06][notice]Backing up backup_themes completed.
+[2025-03-03 03:28:06][notice]Prepare to backup backup_plugin files.
+[2025-03-03 03:28:13][notice]Compressing zip file:new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_plugin.part001.zip index:8266
+[2025-03-03 03:36:31][error]Task timed out.
