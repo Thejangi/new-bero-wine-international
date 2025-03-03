@@ -74,3 +74,220 @@ Type: backup
 [2025-03-03 03:28:06][notice]Prepare to backup backup_plugin files.
 [2025-03-03 03:28:13][notice]Compressing zip file:new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_plugin.part001.zip index:8266
 [2025-03-03 03:36:31][error]Task timed out.
+[2025-03-03 03:36:42][notice]Start backing up.
+[2025-03-03 03:36:42][notice]server info fcgi:On max execution time: 180 wp version:6.7.2 php version:8.2.23 db version:8.0.35 php ini:safe_mode: memory_limit:512M memory_get_usage:25.59 MB memory_get_peak_usage:26.81 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2025-03-03 03:36:42][notice]Prepare to backup backup_plugin files.
+[2025-03-03 03:36:47][notice]Compressing zip file:new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_plugin.part001.zip index:8266
+[2025-03-03 03:37:01][notice]Compressing zip file:new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_plugin.part001.zip success. index:8266 file size:39.07 MB
+[2025-03-03 03:37:02][notice]Backing up backup_plugin completed.
+[2025-03-03 03:37:02][notice]Prepare to backup backup_uploads files.
+[2025-03-03 03:37:02][notice]Compressing zip file:new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_uploads.part001.zip index:254
+[2025-03-03 03:37:07][notice]Compressing zip file:new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_uploads.part001.zip success. index:254 file size:43.06 MB
+[2025-03-03 03:37:07][notice]Backing up backup_uploads completed.
+[2025-03-03 03:37:08][notice]Prepare to backup backup_content files.
+[2025-03-03 03:37:08][notice]Compressing zip file:new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_content.part001.zip index:1
+[2025-03-03 03:37:08][notice]Compressing zip file:new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_content.part001.zip success. index:1 file size:144.00 B
+[2025-03-03 03:37:08][notice]Backing up backup_content completed.
+[2025-03-03 03:37:08][notice]Prepare to backup backup_core files.
+[2025-03-03 03:37:10][notice]Compressing zip file:new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_core.part001.zip index:2796
+[2025-03-03 03:40:14][notice]Compressing zip file:new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_core.part001.zip success. index:2796 file size:14.35 MB
+[2025-03-03 03:40:15][notice]Backing up backup_core completed.
+[2025-03-03 03:40:15][notice]Prepare to backup backup_merge files.
+[2025-03-03 03:40:15][notice]Prepare to zip file. file: new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_db.zip
+[2025-03-03 03:40:15][notice]Adding zip files completed.new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.part001.zip, filesize: 1.96 MB
+[2025-03-03 03:40:15][notice]Prepare to zip file. file: new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_themes.zip
+[2025-03-03 03:40:16][notice]Adding zip files completed.new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.part001.zip, filesize: 20.18 MB
+[2025-03-03 03:40:16][notice]Prepare to zip file. file: new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_plugin.zip
+[2025-03-03 03:40:18][notice]Adding zip files completed.new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.part001.zip, filesize: 57.46 MB
+[2025-03-03 03:40:18][notice]Prepare to zip file. file: new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_uploads.zip
+[2025-03-03 03:40:19][notice]Adding zip files completed.new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.part001.zip, filesize: 100.50 MB
+[2025-03-03 03:40:19][notice]Prepare to zip file. file: new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_content.zip
+[2025-03-03 03:40:21][notice]Adding zip files completed.new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.part001.zip, filesize: 100.50 MB
+[2025-03-03 03:40:21][notice]Prepare to zip file. file: new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_core.zip
+[2025-03-03 03:40:24][notice]Adding zip files completed.new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.part001.zip, filesize: 114.42 MB
+[2025-03-03 03:40:28][notice]Backing up backup_merge completed.
+[2025-03-03 03:40:28][notice]files: ["C:\/Users\/ASUS\/Local Sites\/new-bero-wine-international\/app\/public\/wp-content\/wpvividbackups\/new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip"]
+[2025-03-03 03:40:28][notice]Connect site 
+[2025-03-03 03:40:31][notice]Start uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip
+[2025-03-03 03:40:33][notice]{"result":"success","file_status":{"status":"start"}}
+[2025-03-03 03:40:33][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 0
+[2025-03-03 03:40:39][notice]finished send chunk
+[2025-03-03 03:40:39][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 2.00 MB speed:262.14kb/s
+[2025-03-03 03:40:40][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 2097152
+[2025-03-03 03:40:45][notice]finished send chunk
+[2025-03-03 03:40:45][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 4.00 MB speed:349.53kb/s
+[2025-03-03 03:40:45][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 4194304
+[2025-03-03 03:40:51][notice]finished send chunk
+[2025-03-03 03:40:51][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 6.00 MB speed:349.53kb/s
+[2025-03-03 03:40:51][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 6291456
+[2025-03-03 03:40:56][notice]finished send chunk
+[2025-03-03 03:40:57][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 8.00 MB speed:349.53kb/s
+[2025-03-03 03:40:57][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 8388608
+[2025-03-03 03:41:02][notice]finished send chunk
+[2025-03-03 03:41:02][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 10.00 MB speed:419.43kb/s
+[2025-03-03 03:41:02][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 10485760
+[2025-03-03 03:41:08][notice]finished send chunk
+[2025-03-03 03:41:08][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 12.00 MB speed:349.53kb/s
+[2025-03-03 03:41:08][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 12582912
+[2025-03-03 03:41:13][notice]finished send chunk
+[2025-03-03 03:41:13][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 14.00 MB speed:419.43kb/s
+[2025-03-03 03:41:14][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 14680064
+[2025-03-03 03:41:19][notice]finished send chunk
+[2025-03-03 03:41:19][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 16.00 MB speed:419.43kb/s
+[2025-03-03 03:41:19][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 16777216
+[2025-03-03 03:41:25][notice]finished send chunk
+[2025-03-03 03:41:25][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 18.00 MB speed:349.53kb/s
+[2025-03-03 03:41:25][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 18874368
+[2025-03-03 03:41:31][notice]finished send chunk
+[2025-03-03 03:41:31][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 20.00 MB speed:349.53kb/s
+[2025-03-03 03:41:31][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 20971520
+[2025-03-03 03:41:37][notice]finished send chunk
+[2025-03-03 03:41:37][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 22.00 MB speed:349.53kb/s
+[2025-03-03 03:41:37][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 23068672
+[2025-03-03 03:41:43][notice]finished send chunk
+[2025-03-03 03:41:43][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 24.00 MB speed:349.53kb/s
+[2025-03-03 03:41:43][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 25165824
+[2025-03-03 03:41:48][notice]finished send chunk
+[2025-03-03 03:41:48][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 26.00 MB speed:419.43kb/s
+[2025-03-03 03:41:48][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 27262976
+[2025-03-03 03:41:53][notice]finished send chunk
+[2025-03-03 03:41:53][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 28.00 MB speed:419.43kb/s
+[2025-03-03 03:41:53][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 29360128
+[2025-03-03 03:41:58][notice]finished send chunk
+[2025-03-03 03:41:59][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 30.00 MB speed:349.53kb/s
+[2025-03-03 03:41:59][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 31457280
+[2025-03-03 03:42:05][notice]finished send chunk
+[2025-03-03 03:42:05][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 32.00 MB speed:349.53kb/s
+[2025-03-03 03:42:05][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 33554432
+[2025-03-03 03:42:11][notice]finished send chunk
+[2025-03-03 03:42:11][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 34.00 MB speed:349.53kb/s
+[2025-03-03 03:42:11][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 35651584
+[2025-03-03 03:42:17][notice]finished send chunk
+[2025-03-03 03:42:17][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 36.00 MB speed:349.53kb/s
+[2025-03-03 03:42:19][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 37748736
+[2025-03-03 03:42:24][notice]finished send chunk
+[2025-03-03 03:42:25][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 38.00 MB speed:349.53kb/s
+[2025-03-03 03:42:25][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 39845888
+[2025-03-03 03:42:31][notice]finished send chunk
+[2025-03-03 03:42:31][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 40.00 MB speed:349.53kb/s
+[2025-03-03 03:42:31][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 41943040
+[2025-03-03 03:42:37][notice]finished send chunk
+[2025-03-03 03:42:37][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 42.00 MB speed:349.53kb/s
+[2025-03-03 03:42:37][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 44040192
+[2025-03-03 03:42:43][notice]finished send chunk
+[2025-03-03 03:42:43][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 44.00 MB speed:349.53kb/s
+[2025-03-03 03:42:44][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 46137344
+[2025-03-03 03:42:50][notice]finished send chunk
+[2025-03-03 03:42:50][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 46.00 MB speed:349.53kb/s
+[2025-03-03 03:42:50][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 48234496
+[2025-03-03 03:42:58][notice]finished send chunk
+[2025-03-03 03:42:58][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 48.00 MB speed:262.14kb/s
+[2025-03-03 03:42:58][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 50331648
+[2025-03-03 03:43:04][notice]finished send chunk
+[2025-03-03 03:43:04][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 50.00 MB speed:349.53kb/s
+[2025-03-03 03:43:05][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 52428800
+[2025-03-03 03:43:10][notice]finished send chunk
+[2025-03-03 03:43:10][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 52.00 MB speed:349.53kb/s
+[2025-03-03 03:43:10][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 54525952
+[2025-03-03 03:43:16][notice]finished send chunk
+[2025-03-03 03:43:16][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 54.00 MB speed:349.53kb/s
+[2025-03-03 03:43:17][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 56623104
+[2025-03-03 03:43:22][notice]finished send chunk
+[2025-03-03 03:43:22][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 56.00 MB speed:419.43kb/s
+[2025-03-03 03:43:22][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 58720256
+[2025-03-03 03:43:27][notice]finished send chunk
+[2025-03-03 03:43:27][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 58.00 MB speed:419.43kb/s
+[2025-03-03 03:43:27][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 60817408
+[2025-03-03 03:43:34][error]Task timed out.
+[2025-03-03 03:43:45][notice]Start backing up.
+[2025-03-03 03:43:45][notice]server info fcgi:On max execution time: 180 wp version:6.7.2 php version:8.2.23 db version:8.0.35 php ini:safe_mode: memory_limit:512M memory_get_usage:25.64 MB memory_get_peak_usage:26.85 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2025-03-03 03:43:45][notice]files: ["C:\/Users\/ASUS\/Local Sites\/new-bero-wine-international\/app\/public\/wp-content\/wpvividbackups\/new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip"]
+[2025-03-03 03:43:45][notice]Connect site 
+[2025-03-03 03:43:47][notice]Start uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip
+[2025-03-03 03:43:48][notice]{"result":"success","file_status":{"status":"continue","offset":62914560}}
+[2025-03-03 03:43:48][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 62914560
+[2025-03-03 03:43:54][notice]finished send chunk
+[2025-03-03 03:43:54][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 62.00 MB speed:9287.39kb/s
+[2025-03-03 03:43:54][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 65011712
+[2025-03-03 03:44:00][notice]finished send chunk
+[2025-03-03 03:44:00][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 64.00 MB speed:349.53kb/s
+[2025-03-03 03:44:00][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 67108864
+[2025-03-03 03:44:04][notice]finished send chunk
+[2025-03-03 03:44:04][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 66.00 MB speed:524.29kb/s
+[2025-03-03 03:44:04][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 69206016
+[2025-03-03 03:44:10][notice]finished send chunk
+[2025-03-03 03:44:10][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 68.00 MB speed:349.53kb/s
+[2025-03-03 03:44:10][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 71303168
+[2025-03-03 03:44:15][notice]finished send chunk
+[2025-03-03 03:44:15][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 70.00 MB speed:419.43kb/s
+[2025-03-03 03:44:15][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 73400320
+[2025-03-03 03:44:21][notice]finished send chunk
+[2025-03-03 03:44:21][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 72.00 MB speed:349.53kb/s
+[2025-03-03 03:44:21][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 75497472
+[2025-03-03 03:44:26][notice]finished send chunk
+[2025-03-03 03:44:26][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 74.00 MB speed:419.43kb/s
+[2025-03-03 03:44:26][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 77594624
+[2025-03-03 03:44:30][notice]finished send chunk
+[2025-03-03 03:44:30][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 76.00 MB speed:524.29kb/s
+[2025-03-03 03:44:30][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 79691776
+[2025-03-03 03:44:35][notice]finished send chunk
+[2025-03-03 03:44:35][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 78.00 MB speed:419.43kb/s
+[2025-03-03 03:44:35][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 81788928
+[2025-03-03 03:44:39][notice]finished send chunk
+[2025-03-03 03:44:39][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 80.00 MB speed:524.29kb/s
+[2025-03-03 03:44:39][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 83886080
+[2025-03-03 03:44:44][notice]finished send chunk
+[2025-03-03 03:44:44][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 82.00 MB speed:419.43kb/s
+[2025-03-03 03:44:44][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 85983232
+[2025-03-03 03:44:49][notice]finished send chunk
+[2025-03-03 03:44:49][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 84.00 MB speed:419.43kb/s
+[2025-03-03 03:44:49][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 88080384
+[2025-03-03 03:44:55][notice]finished send chunk
+[2025-03-03 03:44:55][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 86.00 MB speed:349.53kb/s
+[2025-03-03 03:44:55][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 90177536
+[2025-03-03 03:45:02][notice]finished send chunk
+[2025-03-03 03:45:02][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 88.00 MB speed:299.59kb/s
+[2025-03-03 03:45:02][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 92274688
+[2025-03-03 03:45:09][notice]finished send chunk
+[2025-03-03 03:45:09][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 90.00 MB speed:299.59kb/s
+[2025-03-03 03:45:09][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 94371840
+[2025-03-03 03:45:15][notice]finished send chunk
+[2025-03-03 03:45:15][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 92.00 MB speed:349.53kb/s
+[2025-03-03 03:45:15][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 96468992
+[2025-03-03 03:45:21][notice]finished send chunk
+[2025-03-03 03:45:21][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 94.00 MB speed:349.53kb/s
+[2025-03-03 03:45:21][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 98566144
+[2025-03-03 03:45:27][notice]finished send chunk
+[2025-03-03 03:45:27][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 96.00 MB speed:349.53kb/s
+[2025-03-03 03:45:27][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 100663296
+[2025-03-03 03:45:34][notice]finished send chunk
+[2025-03-03 03:45:34][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 98.00 MB speed:299.59kb/s
+[2025-03-03 03:45:34][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 102760448
+[2025-03-03 03:45:39][notice]finished send chunk
+[2025-03-03 03:45:39][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 100.00 MB speed:419.43kb/s
+[2025-03-03 03:45:39][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 104857600
+[2025-03-03 03:45:43][notice]finished send chunk
+[2025-03-03 03:45:43][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 102.00 MB speed:524.29kb/s
+[2025-03-03 03:45:43][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 106954752
+[2025-03-03 03:45:49][notice]finished send chunk
+[2025-03-03 03:45:49][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 104.00 MB speed:349.53kb/s
+[2025-03-03 03:45:49][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 109051904
+[2025-03-03 03:45:55][notice]finished send chunk
+[2025-03-03 03:45:55][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 106.00 MB speed:349.53kb/s
+[2025-03-03 03:45:55][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 111149056
+[2025-03-03 03:46:00][notice]finished send chunk
+[2025-03-03 03:46:00][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 108.00 MB speed:419.43kb/s
+[2025-03-03 03:46:00][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 113246208
+[2025-03-03 03:46:04][notice]finished send chunk
+[2025-03-03 03:46:04][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 110.00 MB speed:524.29kb/s
+[2025-03-03 03:46:04][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 115343360
+[2025-03-03 03:46:10][notice]finished send chunk
+[2025-03-03 03:46:10][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 112.00 MB speed:349.53kb/s
+[2025-03-03 03:46:10][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 117440512
+[2025-03-03 03:46:16][notice]finished send chunk
+[2025-03-03 03:46:16][notice]Uploading new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip Total size: 114.43 MB Uploaded: 114.00 MB speed:349.53kb/s
+[2025-03-03 03:46:16][notice]send chunk new-bero-wine-international.local_wpvivid-8029a2239abf2_2025-03-03-03-27_backup_all.zip offset 119537664
+[2025-03-03 03:46:18][notice]finished send chunk
+[2025-03-03 03:46:18][notice]upload finished
+[2025-03-03 03:46:19][notice]Finish upload to send_to_site
+[2025-03-03 03:46:20][notice]Upload finished. Delete task wpvivid-8029a2239abf2
